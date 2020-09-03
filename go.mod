@@ -1,3 +1,3 @@
-module shkabatur/go-naive-ping
+module shkabatur/naiveping
 
 go 1.15
